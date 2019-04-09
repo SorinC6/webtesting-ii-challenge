@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import Dashboad from "./Dashbord";
 
 class Display extends Component {
   state = {};
@@ -7,6 +8,9 @@ class Display extends Component {
     return (
       <div>
         <h2>Display</h2>
+        <div>
+          <Dashboad />
+        </div>
       </div>
     );
   }
