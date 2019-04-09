@@ -24,6 +24,7 @@
     "not op_mini all"
   ],
   "devDependencies": {
+    "dom-testing-library": "^3.19.0",
     "react-testing-library": "^6.1.2"
   }
 }
